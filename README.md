@@ -6,6 +6,7 @@
 
 # android:state_checked
 未勾选状态跟勾选状态效果图:
+
 ![selector_checkbox_checked](https://raw.githubusercontent.com/ansen666/images/master/selector/checkbox_check.png)
 
 # android:state_selected
